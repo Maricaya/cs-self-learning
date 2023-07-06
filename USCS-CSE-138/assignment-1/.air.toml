@@ -1,0 +1,3 @@
+debug = true
+reload = true
+exclude_dir = ["data", "docs", "vendor"]
